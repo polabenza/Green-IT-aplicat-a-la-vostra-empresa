@@ -23,6 +23,9 @@ Després de fer la nostra auditoria, ens hem posat tres reptes per millorar ja d
 # FONTS
 
 **[Apple](https://www.apple.com/es/environment/):** Per com usen energia renovable i materials reciclats.
+
 **[Dell](https://www.dell.com/en-us/dt/corporate/social-impact/advancing-sustainability.htm) i [HP](https://www.hp.com/us-en/hp-information/sustainable-impact.html):** Pel disseny circular i per com reciclen els equips vells.
+
 **[Circular Computing](https://circularcomputing.com/):** Perquè ens han ensenyat que el material *refurbished* (reacondicionat) mola molt.
+
 **[Google Cloud Sustainability](https://cloud.google.com/sustainability):** Per com munten els centres de dades perquè no consumeixin tant.
