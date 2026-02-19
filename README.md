@@ -1,17 +1,20 @@
 # SmartBench: IA Esportiva i Sostenible ⚽🌱
 
-Benvinguts al repositori de sostenibilitat de **SmartBench**. Som una empresa dedicada a l'anàlisi futbolístic per a equips amateur mitjançant la Intel·ligència Artificial. El nostre compromís és oferir tecnologia punta minimitzant l'impacte ambiental a través del **Green IT**.
+Som el Pol Abenza i el Marc Azañedo i aquest és el nostre projecte de Green IT per a l'empresa **SmartBench**.
+
+## Presentació del projecte
+**SmartBench** és una empresa que utilitza la Intel·ligència Artificial per analitzar el rendiment d'equips de futbol amateur. Donem dades professionals a equips de barri.
+**Per què apliquem Green IT?** L'entrenament d'IA consumeix molta energia. Volem innovar en l'esport sense generar residus innecessaris ni malgastar electricitat.
 
 ## Què és el Green IT?
-El Green IT és l'estudi i la pràctica de dissenyar, fabricar, utilitzar i disposar dels sistemes tecnològics de manera que es minimitzi el seu impacte ambiental.
+Per a nosaltres, el Green IT és fer servir la tecnologia amb cap: optimitzar el programari per gastar menys i cuidar el hardware perquè duri el màxim possible. Volem resoldre el problema de l'obsolescència i l'alt consum dels servidors.
+> **Idea clau:** Abans de comprar nou, la nostra prioritat és allargar la vida útil: reparar, ampliar i reacondicionar.
 
-### Àmbits d'aplicació
-- Eficiència energètica dels equips i xarxes.
-- Polítiques i gestió responsable de la tecnologia.
-- Ús de la IT per reduir impactes en altres activitats (com evitar desplaçaments).
 
-## El nostre compromís
-A Smartbench busquem que la nostra tecnologia sigui sostenible. Utilitzem energia eficient, servidors amb poc impacte ambiental i prioritzem l'ús d'equips reutilitzats.
 
 ---
-*Podeu consultar la documentació detallada a la carpeta [/docs](/docs).*
+### Estructura del repositori
+* [Conceptes i Diccionari](/docs/conceptes.md)
+* [Estratègia de l'empresa i RAEE](/docs/estrategia_empresa.md)
+* [Indicadors (KPIs)](/docs/indicadors.md)
+* [Fonts consultades](/docs/fonts.md)
