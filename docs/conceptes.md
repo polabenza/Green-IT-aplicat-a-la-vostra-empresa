@@ -3,7 +3,7 @@
 Aquest document recull la base teòrica i els conceptes fonamentals que guien la política de sostenibilitat de **SmartBench**.
 
 ## 1. Marc de Treball: Les 3 Dimensions del Green IT
-A SmartBench apliquem el Green IT dividint les nostres accions en tres pilars:
+A SmartBench apliquem el Green IT dividint les nostres accions en tres:
 
 * **Green of IT (Eficiència d'equips i xarxes):** Ens enfoquem a reduir el consum d'energia d'ordinadors, servidors i dispositius, utilitzant modes d'estalvi i allargant la vida útil dels aparells informàtics.
 * **Green in IT (Polítiques i gestió):** Apliquem criteris ecològics en la gestió diària, creant normes per a un ús responsable de la tecnologia i gestionant correctament els residus electrònics.
@@ -33,6 +33,3 @@ Abans d'iniciar la transformació digital verda, SmartBench ja presentava aquest
 * **Compra sostenible:** Ja seleccionem equips pensant en la seva durada i facilitat de reparació.
 * **Manteniment preventiu:** Prioritzem el manteniment, la reparació i l'ampliació abans que la substitució directa.
 * **Mesura d'indicadors:** Ja mesurem dades clau com els kWh estimats, els equips recuperats i la gestió de residus.
-
----
-*Aquest document és una part integral del repositori de Green IT de SmartBench per a l'assignatura de Sostenibilitat.*
