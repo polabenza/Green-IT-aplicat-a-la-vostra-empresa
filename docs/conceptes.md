@@ -33,3 +33,19 @@ Abans d'iniciar la transformació digital verda, SmartBench ja presentava aquest
 * **Compra sostenible:** Ja seleccionem equips pensant en la seva durada i facilitat de reparació.
 * **Manteniment preventiu:** Prioritzem el manteniment, la reparació i l'ampliació abans que la substitució directa.
 * **Mesura d'indicadors:** Ja mesurem dades clau com els kWh estimats, els equips recuperats i la gestió de residus.
+
+# FONTS
+
+[Info de la Generalitat](https://residus.gencat.cat/ca/ambits_dactuacio/tipus_de_residu/raee/)
+
+[Google Sustainability](https://cloud.google.com/sustainability)
+
+[iFixit (Notes de reparació)](https://www.ifixit.com/)
+
+[Back Market](https://www.backmarket.es)
+
+[Energy Star](https://www.energystar.gov/) 
+
+[Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/)
+
+[Gestió de RAEE](https://residus.gencat.cat/ca/ambits_dactuacio/tipus_de_residu/raee/)
