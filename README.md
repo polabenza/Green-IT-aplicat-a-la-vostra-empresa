@@ -15,6 +15,6 @@ Per a nosaltres, el Green IT és fer servir la tecnologia amb cap: optimitzar el
 ---
 ### Estructura del repositori
 * [Conceptes i Diccionari](/docs/conceptes.md)
-* [Estratègia de l'empresa i RAEE](/docs/estrategia_empresa.md)
+* [Estratègia de l'empresa i RAEE](/docs/estratègia_empresa.md)
 * [Indicadors (KPIs)](/docs/indicadors.md)
 * [Fonts consultades](/docs/fonts.md)
