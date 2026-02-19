@@ -12,4 +12,4 @@ Necessitem servidors potents per processar hores de vídeo i donar estadístique
 | **Configuració** | Vídeos sense comprimir i servidors a màxima potència sempre. | Optimització de dades i configuració d'estalvi d'energia. |
 | **Impacte** | Molta brossa electrònica i una factura de llum enorme. | Reducció del 40% en la petjada de carboni del servei. |
 
-**Indicador associat:** Mesurem la **Petjada de Carboni per partit analitzat** ($CO_2$ eq). L'objectiu és que cada anàlisi consumeixi el mínim de recursos gràcies a l'optimització del codi.
+**Indicador associat:**  L'objectiu és que cada anàlisi consumeixi el mínim de recursos gràcies a l'optimització del codi.
