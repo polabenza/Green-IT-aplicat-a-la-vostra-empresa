@@ -20,3 +20,15 @@ Després de fer la nostra "foto inicial" o auditoria, hem vist que ja fem coses 
 1. **Configurar millor l'estalvi d'energia:** Ens hem de posar les piles amb els perfils de suspensió i hibernació dels equips.
 2. **Afinar la xarxa:** Hem de vigilar que la xarxa estigui ben configurada per no consumir energia de forma innecessària.
 3. **Optimitzar el web:** Millorar el pes de la pàgina i el caching per ser més eficients.
+
+# FONTS
+
+[Google Cloud Sustainability](https://cloud.google.com/sustainability)
+
+[Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/)
+
+[Back Market](https://www.backmarket.es)
+
+[iFixit](https://www.ifixit.com/)
+
+[Residus Catalunya - RAEE](https://residus.gencat.cat/ca/ambits_dactuacio/tipus_de_residu/raee/)
